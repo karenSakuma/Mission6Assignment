@@ -1,8 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Mission6Assignment.Models;
-
 var builder = WebApplication.CreateBuilder(args);
-
+//testing to see if this works
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
