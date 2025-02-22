@@ -30,8 +30,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Vjb25kUGFnZS9Db25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/karensakuma/RiderProjects/Mission6/Mission6Assignment/Views/SecondPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Vjb25kUGFnZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/karensakuma/RiderProjects/Mission6/Mission6Assignment/Views/SecondPage/MovieCollection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Vjb25kUGFnZS9Nb3ZpZUNvbGxlY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karensakuma/RiderProjects/Mission6/Mission6Assignment/Views/SecondPage/MovieDatabase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Vjb25kUGFnZS9Nb3ZpZURhdGFiYXNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/karensakuma/RiderProjects/Mission6/Mission6Assignment/Views/Shared/_ValidationScriptsPartial.cshtml]

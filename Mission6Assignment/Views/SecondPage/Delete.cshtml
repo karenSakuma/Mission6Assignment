@@ -1,0 +1,15 @@
+@{
+    Layout = "_Layout";
+}
+
+@model Movies
+<h2>Confirm Delete</h2>
+<h3>@Model.Title</h3>
+
+<!--page for deleting a movie-->
+<form method="post">
+    <input type="hidden" asp-for="MovieId"/>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <!--canceling will take you back the database page-->
+    <a class="btn btn-info" asp-controller="SecondPage" asp-action="MovieDatabase">Cancel</a>
+</form>

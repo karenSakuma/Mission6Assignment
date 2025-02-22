@@ -8,5 +8,11 @@ public class FilmInfoContext : DbContext
     {
         
     }
-    public DbSet<Movie> Movies { get; set; }  //a record (one row on the database)
+    public DbSet<Movies> Movies { get; set; }  //a record (one row on the database)
+    public DbSet<Categories> Categories { get; set; } //categories
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Categories>().HasData();
+    }
 }
